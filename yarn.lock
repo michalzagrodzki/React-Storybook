@@ -12750,16 +12750,16 @@ react-app-polyfill@^2.0.0:
     regenerator-runtime "^0.13.7"
     whatwg-fetch "^3.4.1"
 
-"react-card@https://github.com/michalzagrodzki/React-Card.git":
-  version "0.1.0"
-  resolved "https://github.com/michalzagrodzki/React-Card.git#1ad5bc72b82aad22c7daa95373d67689e720eb61"
-  dependencies:
-    "@babel/polyfill" "^7.12.1"
-
 react-colorful@^5.1.2:
   version "5.5.0"
   resolved "https://registry.yarnpkg.com/react-colorful/-/react-colorful-5.5.0.tgz#8359f218984a927095477a190ab9927eaf865c0c"
   integrity sha512-BuzrlrM0ylg7coPkXOrRqlf2BgHLw5L44sybbr9Lg4xy7w9e5N7fGYbojOO0s8J0nvrM3PERN2rVFkvSa24lnQ==
+
+"react-components@https://github.com/michalzagrodzki/React-Components.git":
+  version "0.1.0"
+  resolved "https://github.com/michalzagrodzki/React-Components.git#6c10fa26ba48faf865b635a69fcdd59e12d6369a"
+  dependencies:
+    "@babel/polyfill" "^7.12.1"
 
 react-dev-utils@^11.0.3:
   version "11.0.4"
