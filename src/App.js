@@ -1,4 +1,4 @@
-import { Card } from "react-card";
+import { Card } from "react-components";
 import './App.css';
 
 function App() {
